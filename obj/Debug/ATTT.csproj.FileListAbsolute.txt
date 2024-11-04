@@ -1,0 +1,33 @@
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.Form1.resources
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATTT\ATTT\bin\Debug\ATTT.exe.config
+C:\Users\ADMIN\source\repos\ATTT\ATTT\bin\Debug\ATTT.exe
+C:\Users\ADMIN\source\repos\ATTT\ATTT\bin\Debug\ATTT.pdb
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.exe
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.pdb
+C:\Users\ADMIN\source\repos\ATTT\ATTT\obj\Debug\ATTT.MTT.resources
+D:\D\antoanthongtin\ATTT\ATTT\bin\Debug\ATTT.exe.config
+D:\D\antoanthongtin\ATTT\ATTT\bin\Debug\ATTT.exe
+D:\D\antoanthongtin\ATTT\ATTT\bin\Debug\ATTT.pdb
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.csproj.AssemblyReference.cache
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.Form1.resources
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.MTT.resources
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.Properties.Resources.resources
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.csproj.GenerateResource.cache
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.csproj.CoreCompileInputs.cache
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.exe
+D:\D\antoanthongtin\ATTT\ATTT\obj\Debug\ATTT.pdb
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\bin\Debug\ATTT.exe.config
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\bin\Debug\ATTT.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\bin\Debug\ATTT.pdb
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.Form1.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.MTT.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.exe
+C:\Users\ADMIN\source\repos\ATTT (1)\ATTT\obj\Debug\ATTT.pdb
